@@ -25,7 +25,7 @@ SECRET_KEY = 'a%1kx)haqibc2ovi8n#!n&ilrmax^ab1r6#vxv=78o@yr3%xrp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'RaphaelB4l.pythonanywhere.com']	
+ALLOWED_HOSTS = ['127.0.0.1', 'RaphaelB4.pythonanywhere.com']	
 
 # Application definition
 
