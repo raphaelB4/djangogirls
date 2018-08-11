@@ -5,5 +5,8 @@
   <body>
     <h1>Titre</h1>
     <p>Salut, vous.</p>
+    {% for post in posts %}
+      <p>{{post.text}} </p>
+    {% endfor %}
   </body>
 </html>
